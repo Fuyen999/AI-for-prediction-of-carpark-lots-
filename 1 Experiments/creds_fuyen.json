@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ce1115-data-science-project",
+  "private_key_id": "afcfd8e8850c990c698619459afb874650854747",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkyOInMnm+tzx5\nlAAxBX2/Pm+0bJh0hHcbMu5UCrdAjhGKG5vT3za2udOxT9i3O3+tDbxtCjTyTC0v\n42pcg14jZ3ItHKi/pbRVp0kZrxbV5VekumtMxYyvT5XzM88FjvQ60aBtAkZ79LKl\nJq+Ts5dMU7U/sXMqh6tH8oLRvL+u7y4m16uHxKxEkUsUb0kzUr65duP0dTX65WnY\nyve8gH+2mGBjfprD512cCBptshpnMIjYnc+f8DrvZmBY1Wjag+mGW/NX9swF+ZA6\n/42WLSZs9dcooYFKD/1xdiLhPO7KqNmwDO8Ksm6ZsMmgg+MfBJo9PZNejKfyEksY\ngyaRLFdxAgMBAAECggEAB517kaio2cOxircCFQ6sjqWikQG4wB+6bZPnUcdAZaSu\nUlKiznVUQh8CooEIYjVgpqoJ5GpSY17Av6PaL5+bJNzPUoVIL7ntnf/rjKfCN1nQ\nXx3Si7TdPGFohYzGIZSUHFJbAD0L7iDZjz2WfRqrIHBsFQWAFAqhHRbSII7ng9Ym\nUkstD0dz9tWF+piZ/quYS0sg0oo+YPvCqF/Nb2Gpd4CLKNNsJCdqtGmR/pWeIYnt\nbb2+Sf6y3bn6Bh978SEbryn7MIOIZQHjn+rWGw48+kPd0fPOk6oPKGobGMOF+gYR\n/tHHHHIk98+XaD3Eo8+A4bLX7a9/qBiGtWmpmvDA/QKBgQDXCcW7ZSaOy6ibIKvl\nQRatswlFQHuAF7SvbtI2QiHgZqRAhrRIraK7bp0HbLYd1iJ4XmpsGNdc0CdPu6s8\n9y+3XxWQdLyOUl8tzoLmI6jGibFziFdlw+dIMDEsfv0msjK6Ochh68Eo7urGJedG\nYSD10FH2O8/MDs3l9Q+zaiKPjQKBgQDELIagRB1AXI5Cm4pv/3BAb9FUbsBctt/M\npcTSeBeF+F76J1oyALwBOGePxKlGx63hcPOkD2estc8gfxTKD4GnJOYBTXmVjOZi\nJxpNQjcUwabQB35a2FHPqth2ugCg9dB+DC1Wehp5JJ3418Hk5AySC4tOg/hVCQfZ\nQMAKqCasdQKBgA7eyiGvWP8+7iXsGHb+DUdtvhJf5ypweTo4e6js4dLWxj0AE6+C\n8mHrwEgnKGDf0fpo7QsUnK/6ZP2KiMjqfw47MQ6QRAnDgHl2cm7fwGgaVX8byo9r\nAK9pRb1B+teWMxPVsxmyZ+UgwHN7Y4bmaJUXFtPkRvZhf7OLQs6xZDpxAoGATfns\n4VNx1R11JqCw3GfKdLJ9oHQNXk0KlEvn+kjmAMiC6CgwP+Pu1wVWlNz09D92rD+7\neKDu8sWpuR8KYm7beFbAXhAvnfRNtwIYAFGrl0KKTfJMlUua6VLdjAPPMCvFXfT1\nKISMdU7KxBju506GeJ7CFsl6MkLOrdqA+ztvc+kCgYEAiBjgG+n8s87QpSIhKUDE\nDJ++MkNYBBaYenu+K4Rhxe3htDuzAgKh8W+TGNqLqK0bxY37C2KcEnkNJ6X/mmAp\nQjl4HqXd6YkjuJ+C8yIUUi7+ebSa6uzhS+6SnFZpJSCjb6ayRYLvKmcRmvxY/IEu\nDOtfWkMc4SMvh+qqDTuZq64=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lta-datascrape@ce1115-data-science-project.iam.gserviceaccount.com",
+  "client_id": "102573605171364434404",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lta-datascrape%40ce1115-data-science-project.iam.gserviceaccount.com"
+}
